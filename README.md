@@ -1,6 +1,10 @@
 # KingsKidsScoreboard
 Basic 2 Player Scoreboard written in python
 
+I have included 2 versions of my code to github, KingsKids.py and KingsKidsGlobal.py:
+    KingsKids.py --> Basic 2 player scoreboard
+    KingsKIdsGlobal.py --> 2 player scoreboard with score http server
+
 Pillow is needed to run the program:
     pip install Pillow
 
@@ -13,3 +17,5 @@ Then run the command:
     
 Download the new version with server here:
     https://drive.google.com/open?id=1jGhPJcBh52v4pSTG4kM7_OTr0kvJoKKH
+
+If you need a custom scoreboard created please get in contact with me.
